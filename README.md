@@ -1,4 +1,4 @@
-# The Computational Gut: First Version
+# The Computational Gut: [First Version](https://blog.wasda.ai/post.html?id=wasd-ai-pursuit-algorithm-2025)
 
 We present our initial experiment in creating a **Computational Gut**—a decision-making program that simulates human-like “gut feelings” by blending:
 - **Biological & Entropy Modeling**  
