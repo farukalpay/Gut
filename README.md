@@ -40,7 +40,41 @@ In many decisions, humans rely on an intuitive sense—often called a “gut fee
 
 ---
 
-## 4. Usage
+## 4. Example Input/Output
+
+For instance, if you run the script with:
+- **Question**: “Should we invest in Project X?”  
+- **Cost**: 0.2  
+- **Benefit**: 0.5  
+- **Risk**: 0.3  
+- **Horizon**: 50  
+
+You might see output similar to:
+
+```
+Welcome to the Land of Algoria...
+Enter your pressing question for the Oracle: Should we invest in Project X?
+
+1) The resource cost (0–1)? 0.2
+2) The long-term benefit (0–1)? 0.5
+3) The risk/volatility (0–1)? 0.3
+4) How many steps to consider? 50
+
+Peering through the swirling mists of time...
+The Oracle’s crystal reveals the following glimpses of the future:
+
+  Survival rate if you proceed (YES):  98.70%
+  Average ending energy (YES):        19.41
+  Survival rate if you decline (NO):  95.50%
+  Average ending energy (NO):         15.23
+
+*** The Oracle’s Divine Pronouncement ***
+The ritual indicates you should choose: YES
+```
+
+> **Interpretation**: Investing costs you 20% of your current resources now, but you gain a 50% reduction in ongoing “decay.” After simulating 50 steps in a moderately risky environment, your “YES” scenarios often survive with slightly higher average final energy.
+
+## 5. Usage
 
 1. **Install Python** (3.7+ recommended).
 2. **Clone or Download** this repository.
