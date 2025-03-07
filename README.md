@@ -82,3 +82,20 @@ The ritual indicates you should choose: YES
 4. **Run**:
    ```bash
    python first_gut.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ba660c42a08f1e0f023b4d6a7bc8d77d3297d303b72768c2b7da03230b38f0a7
